@@ -37,20 +37,17 @@ Follow these steps to run and explore the project:
 
 2. Set up a Python environment (recommended):
    ```bash
-   Copy code
    python3 -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 3. Install dependencies:
    ```bash
-   Copy code
    pip install -r requirements.txt
 
 If requirements.txt doesn’t exist yet, you may install typical packages like numpy, pandas, matplotlib, etc.
 
 4. Launch Jupyter Notebook:
    ```bash
-   Copy code
    jupyter notebook
 Open neural_network.ipynb and follow the notebook flow.
 

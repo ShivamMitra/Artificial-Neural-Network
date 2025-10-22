@@ -90,8 +90,5 @@ How to contribute:
 - Open a Pull Request with a clear description of your changes.
 
 ## License
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0) — see the LICENSE
- file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-License
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0) — see the LICENSE file for details.
